@@ -1,5 +1,7 @@
 # Gift List
 
+GiftList is an implementation of merkletrees to verify that a given name is part of a list of giftees.
+
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
 
 There are three folders in this repository:
